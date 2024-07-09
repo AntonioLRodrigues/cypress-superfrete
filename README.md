@@ -27,5 +27,5 @@ Projeto de teste utilizando Cypress para validação da tela de cálculo de fret
 4. **Execute os Testes:**
    - Para executar os testes via linha de comando (headless), utilize:
      
-     npx cypress run
+     npx cypress open
     
