@@ -29,5 +29,5 @@ Projeto de teste utilizando Cypress para validação da tela de cálculo de fret
      
      npx cypress open
      ou
-     npx cypress open
+     npx cypress run
     
