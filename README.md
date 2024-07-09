@@ -9,14 +9,23 @@ Projeto de teste utilizando Cypress para validação da tela de cálculo de fret
 
 ## Como executar
 
-1. Clone o repositório:
+1. **Faça um Fork do Repositório:**
+   - Faça login na sua conta do GitHub.
+   - Acesse o [[[repositório Cypress Superfrete](https://github.com/seuusuario/cypress-superfrete).](https://github.com/AntonioLRodrigues/cypress-superfrete)](https://github.com/AntonioLRodrigues/cypress-superfrete)
+   - No canto superior direito da página do repositório, clique no botão "Fork" para criar uma cópia do repositório na sua própria conta do GitHub.
 
-git clone 
+2. **Clone o Repositório:**
+   - Clone o repositório forkado para o seu ambiente local:
+     
+     git clone https://github.com/seuusuario/cypress-superfrete.git
+     
+3. **Instale as Dependências:**
+   - Certifique-se de que Node.js e npm estão instalados. No diretório do seu projeto, execute:
+     
+     npm install
 
-2. Instale as dependências:
-
-npm install
-
-3. Execute os testes:
-
-npx cypress run
+4. **Execute os Testes:**
+   - Para executar os testes via linha de comando (headless), utilize:
+     
+     npx cypress run
+    
