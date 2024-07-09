@@ -11,7 +11,7 @@ Projeto de teste utilizando Cypress para validação da tela de cálculo de fret
 
 1. **Faça um Fork do Repositório:**
    - Faça login na sua conta do GitHub.
-   - Acesse o [[[repositório Cypress Superfrete](https://github.com/seuusuario/cypress-superfrete).](https://github.com/AntonioLRodrigues/cypress-superfrete)](https://github.com/AntonioLRodrigues/cypress-superfrete)
+   - Acesse o (https://github.com/AntonioLRodrigues/cypress-superfrete)
    - No canto superior direito da página do repositório, clique no botão "Fork" para criar uma cópia do repositório na sua própria conta do GitHub.
 
 2. **Clone o Repositório:**
